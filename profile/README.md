@@ -12,11 +12,11 @@ Nadis Intelligence provides the essential infrastructure layer that makes AI wor
 
 #### **SCALE FACTOR™ Assessment**
 Diagnostic framework measuring AI infrastructure readiness across 7 critical dimensions.  
-[Take the Assessment](https://scalefactor.nadis.ai) | [View Methodology](https://github.com/nadisintelligence/scalefactor-methodology)
+[Take the Assessment](https://scalefactor.nadis.ai) | [View Methodology](https://github.com/aiwithari/scalefactor-methodology)
 
 #### **AI Infrastructure Accelerator**
 8-week program transforming fragmented tools into coherent systems.  
-[Learn More](https://nadis.ai/accelerator)
+[Learn More](https://accelerator.nadis.ai)
 
 #### **Symbi** *(Coming Soon)*
 Your infrastructure intelligence advisor - the AI that monitors and optimizes your entire technology ecosystem.
@@ -34,9 +34,9 @@ Revolutionary executive computing environment that transforms how leaders intera
 ## 🛠️ Open Source Contributions
 
 ### Frameworks & Methodologies
-- [SCALE FACTOR™ Methodology](https://github.com/nadisintelligence/scalefactor-methodology) - AI infrastructure readiness framework
-- [Three Symbioses™ Framework](https://github.com/nadisintelligence/three-symbioses) - Systematic AI adoption model
-- [Infrastructure Coherence Toolkit](https://github.com/nadisintelligence/coherence-toolkit) - Assessment and optimization tools
+- [SCALE FACTOR™ Methodology](https://github.com/aiwithari/scalefactor-methodology) - AI infrastructure readiness framework
+- [Three Symbioses™ Framework]() - Systematic AI adoption model
+- [Infrastructure Coherence Toolkit]() - Assessment and optimization tools
 
 ### Resources
 - [AI Tool Integration Patterns](https://github.com/nadisintelligence/integration-patterns) - Common patterns for tool integration
